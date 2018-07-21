@@ -1,2 +1,2 @@
 # Java-Projects
-Projects created at my University
+Projects developed @University
