@@ -1,2 +1,2 @@
 # Java-Projects
-Projects developed @University
+Projects developed @University of Verona
